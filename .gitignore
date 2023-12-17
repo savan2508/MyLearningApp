@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+### ReactNative template
+# React Native Stack Base
+
+.expo
+__generated__
+
+.idea
